@@ -1,1 +1,1 @@
-Programming assignment 1 from the Coursera/Stanford Machine Learning course by Andrew Ng
+Programming assignments from the Coursera/Stanford Machine Learning intro course
